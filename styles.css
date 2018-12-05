@@ -1,0 +1,56 @@
+#mainNav {
+    background-color: rgb(82, 53, 18) !important;
+    color: black;
+}
+
+body {
+    background-color: rgb(247, 243, 243) !important;
+}
+
+#header {
+    background-color: rgb(247, 243, 243) !important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.lead {
+    color: black !important;
+    font-size: 24px;
+    text-align: center !important;
+    align-content: center;
+}
+
+#navbar-responsive {
+    color: black !important;
+    font-size: 48px;
+}
+
+#title {
+    font-size: 55px !important;
+}
+
+#service {
+    align-content: center;
+    text-align: left;
+    font-size: 16px;
+}
+
+#footer {
+    background-color: rgb(82, 53, 18) !important;
+}
+
+#definition {
+    padding: 50px !important;
+}
+
+#Example {
+    padding: 50px !important;
+}
+
+#LightTheWorld{
+    padding: 50px !important;
+}
+
+#service {
+    padding: 50px !important;
+}
